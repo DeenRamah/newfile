@@ -1,0 +1,17 @@
+E:\mee\newfile\newfile\bin\Debug\net7.0-windows\newfile.exe
+E:\mee\newfile\newfile\bin\Debug\net7.0-windows\newfile.deps.json
+E:\mee\newfile\newfile\bin\Debug\net7.0-windows\newfile.runtimeconfig.json
+E:\mee\newfile\newfile\bin\Debug\net7.0-windows\newfile.dll
+E:\mee\newfile\newfile\bin\Debug\net7.0-windows\newfile.pdb
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.csproj.AssemblyReference.cache
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.Form1.resources
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.csproj.GenerateResource.cache
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.GeneratedMSBuildEditorConfig.editorconfig
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.AssemblyInfoInputs.cache
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.AssemblyInfo.cs
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.csproj.CoreCompileInputs.cache
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.dll
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\refint\newfile.dll
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.pdb
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\newfile.genruntimeconfig.cache
+E:\mee\newfile\newfile\obj\Debug\net7.0-windows\ref\newfile.dll
